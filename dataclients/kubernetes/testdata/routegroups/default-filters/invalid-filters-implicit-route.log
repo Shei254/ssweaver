@@ -1,0 +1,2 @@
+Failed to retrieve default filters: error while applying default filters for route group and service: default/myapp myapp
+kind=RouteGroup name=myapp

@@ -1,0 +1,3 @@
+failOn:
+- /api/v1/endpoints
+- /apis/discovery.k8s.io/v1/endpointslices

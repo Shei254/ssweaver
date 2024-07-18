@@ -1,0 +1,1 @@
+lb_group: Host(/^test[.]example[.]org$/) -> <roundRobin, "http://127.0.0.1:9000", "http://127.0.0.1:9001">;
